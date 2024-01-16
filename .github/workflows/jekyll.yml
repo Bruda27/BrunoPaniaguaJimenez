@@ -34,7 +34,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Set up Ruby 2.2
-        uses: ruby/setup-ruby@v2
+        uses: ruby/setup-ruby@v4
         with:
              ruby-version: 2.2
              bundler-cache: true  # Optional: Enable bundler caching
