@@ -125,7 +125,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
           layout: list
-        - layout: right
+       - layout: right
         title: Eurofins - Senior Global Support Desktop Engineer
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
@@ -135,7 +135,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
           layout: list
-        - layout: right
+       - layout: right
         title: Eurofins - Product Support Specialist in Eurofins IT
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
