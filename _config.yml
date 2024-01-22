@@ -87,18 +87,23 @@ content:
     content:
       - layout: right
         title: Inovagreen
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        sub_title: Sales Manager and Developer
+        caption: feb. 2015 - may. 2016 -1 year & 4 months
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-          layout: list
+          Spearheaded business development initiatives, including strategic asset planning and execution of marketing campaigns.
+Played a pivotal role in inside information handling, providing valuable insights for informed decision-making.
+Led meticulous migrations planning, zoning, and version capabilities within a scrum framework.
+Managed audit processes with precision, ensuring compliance and mitigating potential risks.
+Applied strong programming skills in Python and demonstrated proficiency in Linux and Docker containerization.
+
       - layout: right
         title: Convergys
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        sub_title: Compliance Analyst Specialist Support Agent
+        caption: sept. 2016 - dic. 2016 · 4 Months
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -107,8 +112,8 @@ content:
           layout: list
       - layout: right
         title: Microsoft Intune, Tek Experts 
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        sub_title: Senior Product Support Specialist
+        caption: may. 2017 - jun. 2018 · 1 year & 2 months
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -116,9 +121,9 @@ content:
           Description of role
           layout: list
       - layout: right
-        title: SolveIT Solutions - IT Administrator
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: SolveIT Solutions 
+        sub_title: - IT Administrator
+        caption: jun. 2018 - feb. 2019 · 9 Months
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -126,9 +131,9 @@ content:
           Description of role
           layout: list
       - layout: right
-        title: Eurofins - Senior Global Support Desktop Engineer
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: Eurofins IT
+        sub_title: Senior Global Support Desktop Engineer
+        caption: Apr 21th 2019 - May 25th 2020 1 year & 1 month
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -136,9 +141,9 @@ content:
           Description of role
           layout: list
       - layout: right
-        title: Eurofins - Product Support Specialist in Eurofins IT
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: Eurofins IT
+        sub_title: Product Sustainer Specialist
+        caption: Jun 1th 2020 - July 16th 2023 3 years y 1 month
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
