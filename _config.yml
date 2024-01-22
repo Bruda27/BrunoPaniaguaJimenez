@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Bruno Paniagua Jimenez!
-title: HEHEHEHE
-email: Your email (optional)
+name: Bruno Paniagua Jimenez
+title: Product Sustainer Specialist 
+email: Bruno.pj27@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 591 74269564 
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://bruda27.github.io/BrunoPaniagua/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -22,16 +22,16 @@ darkmode: true
 twitter_username: jekyllrb
 github_username:  jekyll
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
 linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
@@ -52,7 +52,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+ Results-driven Sales Manager and Developer with a proven track record in business development, project management, and IT administration. Demonstrated expertise in handling inside information, 
+ meticulous migrations planning, effective audit management, and successful execution of marketing campaigns. Proficient in Python programming, Linux, and Docker, showcasing adaptability and technical acumen., so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -93,6 +94,18 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+          layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+          
   - title: Education
     layout: list
     content:
