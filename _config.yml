@@ -95,11 +95,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
           Spearheaded business development initiatives, including strategic asset planning and execution of marketing campaigns.
-Played a pivotal role in inside information handling, providing valuable insights for informed decision-making.
-Led meticulous migrations planning, zoning, and version capabilities within a scrum framework.
-Managed audit processes with precision, ensuring compliance and mitigating potential risks.
-Applied strong programming skills in Python and demonstrated proficiency in Linux and Docker containerization.
-
+          Played a pivotal role in inside information handling, providing valuable insights for informed decision-making.
+          Led meticulous migrations planning, zoning, and version capabilities within a scrum framework.
+          Managed audit processes with precision, ensuring compliance and mitigating potential risks.
+          Applied strong programming skills in Python and demonstrated proficiency in Linux and Docker containerization.
       - layout: right
         title: Convergys
         sub_title: Compliance Analyst Specialist Support Agent
