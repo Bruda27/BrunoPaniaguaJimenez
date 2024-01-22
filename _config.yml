@@ -89,66 +89,81 @@ content:
         title: Inovagreen
         sub_title: Sales Manager and Developer
         caption: feb. 2015 - may. 2016 -1 year & 4 months
-        link: Link to company (optional)
+        link: https://www.linkedin.com/company/innovagreen-technology/about/
+              http://www.innovagreentec.com/
         quote: >
-          Short description of the company (optional)
+          Domotic Technology and Industrial Automation IOT devices.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          
           Spearheaded business development initiatives, including strategic asset planning and execution of marketing campaigns.
           Played a pivotal role in inside information handling, providing valuable insights for informed decision-making.
           Led meticulous migrations planning, zoning, and version capabilities within a scrum framework.
           Managed audit processes with precision, ensuring compliance and mitigating potential risks.
           Applied strong programming skills in Python and demonstrated proficiency in Linux and Docker containerization.
+          using Raspbian Jessie (NOOBS) for raspberry Pi,
       - layout: right
         title: Convergys
         sub_title: Compliance Analyst Specialist Support Agent
         caption: sept. 2016 - dic. 2016 · 4 Months
-        link: Link to company (optional)
+        link: https://www.concentrix.com/
         quote: >
-          Short description of the company (optional)
+          Health care services, SIGNA DENTAL
         description: | # this will include new lines to allow paragraphs
-          Description of role
-          layout: list
+          Specialized in delivering compliance and policy information for an insurance company, contributing to its regulatory adherence.
+          Provided essential support for business development activities, ensuring alignment with compliance standards.
+
       - layout: right
         title: Microsoft Intune, Tek Experts 
         sub_title: Senior Product Support Specialist
         caption: may. 2017 - jun. 2018 · 1 year & 2 months
-        link: Link to company (optional)
+        link: https://careers.tek-experts.com/costarica
         quote: >
-          Short description of the company (optional)
+         https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
         description: | # this will include new lines to allow paragraphs
-          Description of role
-          layout: list
+          Led as a Senior Product Support Specialist, responsible for designing infrastructure architecture for both existing clients and new customers using Microsoft Intune technology.
+          Managed server administration for on-premises and cloud environments, overseeing Active Directory, Exchange, and AD Connect implementations.
+          Executed API integrations with third-party applications, whether proprietary client products or external solutions.
+          Orchestrated the deployment of compliance and configuration policies tailored to meet the unique needs of clients' organizations.
+          Conducted troubleshooting of Intune technology on the client's end, devising action plans and identifying the root causes of failures.
+          Engaged in Scrum planning meetings in collaboration with clients' IT administrators, ensuring alignment with project objectives.
+          Coordinated sprint deadline processes and facilitated user acceptance testing, ensuring seamless integration and client satisfaction.
+
       - layout: right
-        title: SolveIT Solutions 
+        title: SolveIT Solutions / clocky.app
         sub_title: IT Administrator
         caption: jun. 2018 - feb. 2019 · 9 Months
-        link: Link to company (optional)
+        link: https://clocky.app/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
-          layout: list
+          Implemented comprehensive IT solutions for call centers and logistics companies, optimizing hardware and software inventory management.
+          Contributed to business strategy, focusing on subscription-based models and recurring revenue strategies.
+          Engaged in process and resource management, ensuring efficient business operations.
+
       - layout: right
         title: Eurofins IT
         sub_title: Senior Global Support Desktop Engineer
         caption: Apr 21th 2019 - May 25th 2020 1 year & 1 month
-        link: Link to company (optional)
+        link: https://www.eurofinsus.com/
         quote: >
-          Short description of the company (optional)
+          Eurofins Scientific is a group of international life sciences companies which provide a unique range of analytical testing services to clients across multiple industrie
         description: | # this will include new lines to allow paragraphs
-          Description of role
-          layout: list
+          Managed global IT infrastructure, overseeing remote access troubleshooting and ensuring legal and compliance considerations.
+          Successfully navigated complex incident report management and maintained robust communication channels with stakeholders.
+          Demonstrated proficiency in server administration, Active Directory, and Exchange server.
+
       - layout: right
         title: Eurofins IT
         sub_title: Product Sustainer Specialist
         caption: Jun 1th 2020 - July 16th 2023 3 years y 1 month
-        link: Link to company (optional)
+        link: https://www.eurofinsus.com/food-testing/
         quote: >
-          Short description of the company (optional)
+         Eurofins is the leader in food, feed, and supplement testing, support, and development services
         description: | # this will include new lines to allow paragraphs
-          Description of role
-          layout: list     
+          Administered and developed the Eurofins Laboratory Management System (eLIMS), ensuring optimal functionality and user satisfaction.
+          Led sprint releases, engaging in version release discussions, software development updates, and Sprint User Acceptance Testing (UAT).
+          Managed alert and monitoring systems, ensuring seamless operations within a decentralized network of laboratories.
+    
                      
   - title: Education
     layout: list
