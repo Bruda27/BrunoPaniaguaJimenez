@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
- Results-driven Sales Manager and Developer with a proven track record in business development, project management, and IT administration. Demonstrated expertise in handling inside information, 
+ Results-driven Analyst and Developer with a proven track record in business development, project management, and IT administration. Demonstrated expertise in handling inside information, 
  meticulous migrations planning, effective audit management, and successful execution of marketing campaigns. Proficient in Python programming, Linux, and Docker, showcasing adaptability and technical acumen., so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -168,6 +168,39 @@ content:
   - title: Education
     layout: list
     content:
+      - layout: top-right
+        title: Ministerio de Educacion Publica MEP Costa Rica (Public Education Ministery)
+        sub_title: Senior High school diploma, technical degree on C++ oritened programing.
+        caption: "2013-2017"
+        quote: >
+          Bachillerato en Educacion Media.
+        #description: | # this will include new lines to allow paragraphs
+          #Description of qualification
+      - layout: top-right
+        title: Universidad Americana, Laureate International Universities
+        sub_title: Bachelor's Degree Juris Doctor Costa Rica.
+        caption: 2013-2017
+        quote: >
+          Derecho Comercial (Coorporate Law)
+        description: | # this will include new lines to allow paragraphs
+          Economic decentralized model, Merger of commercial entities, Securities, Stock market contracts, Banking contracts, Unfair competition action.
+
+      - layout: top-right
+        title: Unviersidad Estatal a Distancia (UNED)
+        sub_title: Systems Engineering
+        caption: 2014-2020
+        quote: >
+          System node develpment
+        description: | # this will include new lines to allow paragraphs
+        system architecture, pattern design, and flow optimization, progaming and essential Networking.
+      - layout: top-right
+        title: Hacker Mentor
+        sub_title: Etical Hacking 
+        caption: "2023"
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
       - layout: top-right
         title: Institution name
         sub_title: Qualifications (eg. BA Performing Arts)
