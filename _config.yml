@@ -192,7 +192,7 @@ content:
         quote: >
           System node develpment
         description: | # this will include new lines to allow paragraphs
-        system architecture, pattern design, and flow optimization, progaming and essential Networking.
+         system architecture, pattern design, and flow optimization, progaming and essential Networking.
       - layout: top-right
         title: Hacker Mentor
         sub_title: Etical Hacking 
