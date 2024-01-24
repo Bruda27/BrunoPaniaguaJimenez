@@ -202,9 +202,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-right
-        #title: Institution name
-        #sub_title: Qualifications (eg. BA Performing Arts)
-        #caption: Date Range (eg. 2016 - 2019)
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
         quote: >
         Note: Information within this page follows The Apostille Convention, Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents.
           DM-DVM-AC-DGEC-0544-2022
