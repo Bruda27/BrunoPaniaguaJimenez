@@ -16,7 +16,7 @@ website: https://bruda27.github.io/BrunoPaniagua/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: False
 
 # Social links
 twitter_username: BrunoPj27
