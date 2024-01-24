@@ -195,12 +195,17 @@ content:
          system architecture, pattern design, and flow optimization, progaming and essential Networking.
       - layout: top-right
         title: Hacker Mentor
-        sub_title: Etical Hacking 
+        sub_title: Ethical Hacking 
         caption: "2023"
         quote: >
-          Short institution or course description (optional)
+          Cybersecurity,proactive identification and mitigation of security vulnerabilities. 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          expertise in conducting controlled and authorized penetration testing to assess the security posture of systems, networks, and applications. Dedicated to ensuring the confidentiality, integrity, and availability of critical assets through the application of ethical hacking technique
+          Exploits deployment
+          pasive & active target recognition
+          port and host scan
+          Enumeration
+          staged payloads, multihandler for reverse processes
       - layout: top-right
         #title: Institution name
         #sub_title: Qualifications (eg. BA Performing Arts)
