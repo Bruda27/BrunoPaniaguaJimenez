@@ -34,10 +34,10 @@ linkedin_username: bruno-paniagua-jimenez-899a67139
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+  #icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  #url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/Bruno.jpg
 about_content: | # this will include new lines to allow paragraphs
  Results-driven Analyst and Developer with a proven track record in business development, project management, and IT administration. Demonstrated expertise in handling inside information, 
  meticulous migrations planning, effective audit management, and successful execution of marketing campaigns. Proficient in Python programming, Linux, and Docker, showcasing adaptability and technical acumen., so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -96,11 +96,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           
           Spearheaded business development initiatives, including strategic asset planning and execution of marketing campaigns.
-          Played a pivotal role in inside information handling, providing valuable insights for informed decision-making.
-          Led meticulous migrations planning, zoning, and version capabilities within a scrum framework.
-          Managed audit processes with precision, ensuring compliance and mitigating potential risks.
-          Applied strong programming skills in Python and demonstrated proficiency in Linux and Docker containerization.
-          using Raspbian Jessie (NOOBS) for raspberry Pi,
+          Led meticulous migrations planning, zoning, and version capabilities within a scrum framework. Managed audit processes with precision, ensuring compliance and mitigating potential risks.
       - layout: right
         title: Convergys
         sub_title: Compliance Analyst Specialist Support Agent
@@ -121,12 +117,7 @@ content:
          https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
         description: | # this will include new lines to allow paragraphs
           Led as a Senior Product Support Specialist, responsible for designing infrastructure architecture for both existing clients and new customers using Microsoft Intune technology.
-          Managed server administration for on-premises and cloud environments, overseeing Active Directory, Exchange, and AD Connect implementations.
-          Executed API integrations with third-party applications, whether proprietary client products or external solutions.
-          Orchestrated the deployment of compliance and configuration policies tailored to meet the unique needs of clients' organizations.
-          Conducted troubleshooting of Intune technology on the client's end, devising action plans and identifying the root causes of failures.
-          Engaged in Scrum planning meetings in collaboration with clients' IT administrators, ensuring alignment with project objectives.
-          Coordinated sprint deadline processes and facilitated user acceptance testing, ensuring seamless integration and client satisfaction.
+          Managed server administration for on-premises and cloud environments,Coordinated sprint deadline processes and facilitated user acceptance testing, ensuring seamless integration and client satisfaction.
 
       - layout: right
         title: SolveIT Solutions / clocky.app
@@ -150,7 +141,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Managed global IT infrastructure, overseeing remote access troubleshooting and ensuring legal and compliance considerations.
           Successfully navigated complex incident report management and maintained robust communication channels with stakeholders.
-          Demonstrated proficiency in server administration, Active Directory, and Exchange server.
+         
 
       - layout: right
         title: Eurofins IT
@@ -161,7 +152,7 @@ content:
          Eurofins is the leader in food, feed, and supplement testing, support, and development services
         description: | # this will include new lines to allow paragraphs
           Administered and developed the Eurofins Laboratory Management System (eLIMS), ensuring optimal functionality and user satisfaction.
-          Led sprint releases, engaging in version release discussions, software development updates, and Sprint User Acceptance Testing (UAT).
+          collaborative business alignment, sprint releases, engaging in version release discussions, software development updates, and Sprint User Acceptance Testing (UAT).
           Managed alert and monitoring systems, ensuring seamless operations within a decentralized network of laboratories.
     
                      
@@ -200,12 +191,8 @@ content:
         quote: >
           Cybersecurity,proactive identification and mitigation of security vulnerabilities. 
         description: | # this will include new lines to allow paragraphs
-          expertise in conducting controlled and authorized penetration testing to assess the security posture of systems, networks, and applications. Dedicated to ensuring the confidentiality, integrity, and availability of critical assets through the application of ethical hacking technique
-          Exploits deployment
-          pasive & active target recognition
-          port and host scan
-          Enumeration
-          staged payloads, multihandler for reverse processes
+          controlled and authorized penetration testing to assess the security posture of systems, networks, and applications. Dedicated to ensuring the confidentiality, integrity, and availability of critical assets through the application of ethical hacking technique
+          Exploits deployment, pasive & active target recognition,port and host scan,Enumeration,staged payloads, multihandler for reverse processes
       - layout: top-right
         #title: Institution name
         #sub_title: Qualifications (eg. BA Performing Arts)
