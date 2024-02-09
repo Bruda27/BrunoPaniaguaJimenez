@@ -55,12 +55,12 @@ about_content: | # this will include new lines to allow paragraphs
  Results-driven Analyst and Developer with a proven track record in business development, project management, and IT administration. Demonstrated expertise in handling inside information, 
  meticulous migrations planning, effective audit management, and successful execution of marketing campaigns,showcasing adaptability and technical acumen.
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+  #- title: Projects # Title for the section
+    #layout: list # Type of content section (list/text)
+    #content:
       #- layout: left
        #border: weak  # Value of `weak` will display a weak border below this item. # Any # other value (or no value) means no border will be displayed
-      title: Profesional life cylcle Codification
+      #title: Profesional life cylcle Codification
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #ink_text: Link Text
         #additional_links:
@@ -70,10 +70,10 @@ content:
           - #title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Projects are defined and managed in my Blog, check them out!
-        description: | # this will include new lines to allow paragraphs
-         Automation, AI and Machine learning.
+        #quote: >
+          #Projects are defined and managed in my Blog, check them out!
+        #description: | # this will include new lines to allow paragraphs
+         #Automation, AI and Machine learning.
   - title: Experience
     layout: list
     content:
