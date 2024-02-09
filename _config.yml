@@ -197,8 +197,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      
-     The fact of owning your own technology thanks to AI approaches a new universe of posibilities, along with the correct company, im so exited!
+            The fact of owning your own technology thanks to AI approaches a new universe of posibilities, along with the correct company, im so exited!
 
 # Footer
 footer_show_references: true
